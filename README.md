@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 💻 Estudiando actualmente en Riwi<br>🔎 Busco colaborar en proyectos y equipos de alto valor<br>🤝 Me gusta enseñar y compartir mis conocimientos en ambientes colaborativos<br>⚙️ Me encuentro aprendiendo DevOps<br>⚡ Puedes saber más de mi en mi portafolio 😄<br>
 
 
