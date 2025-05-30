@@ -1,6 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Python+Back-End+Developer)](https://git.io/typing-svg)
+
 # 👾 About Me:
 💻 Estudiando actualmente en Riwi<br>🔎 Busco colaborar en proyectos y equipos de alto valor<br>🤝 Me gusta enseñar y compartir mis conocimientos en ambientes colaborativos<br>⚙️ Me encuentro aprendiendo DevOps<br>⚡ Puedes saber más de mi en mi portafolio 😄<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-monsalve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateomonsalve502@gmail.com) [![Portafolio](https://img.shields.io/badge/Portafolio-%23239120.svg)](https://matiusdev.github.io/portafolio/)
