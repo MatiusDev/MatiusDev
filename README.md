@@ -95,5 +95,3 @@
   <a href="mailto:mateomonsalve502@gmail.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" width="52" height="40" alt="Email logo"  /></a>
   <a href="https://discord.com/users/142107854864646144"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" width="52" height="40" alt="Discord logo"  /></a>
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-monsalve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateomonsalve502@gmail.com)
