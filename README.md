@@ -1,14 +1,99 @@
 # 👾 About Me:
-[💻](https://riwi.io/) Riwi's Student<br>🔎 I am looking to collaborate in high value projects and teams.<br>🤝 I enjoy teaching and sharing my knowledge in collaborative environments.<br>⚙️ Training myself to be Devops Engineer<br>⚡ More about me on my portfolio 😄<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=5px&duration=1000&pause=1500&color=2A8487&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;DevOps+Engineer;My+portfolio%2C+click+here!)](https://matiusdev.github.io/portafolio/)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-monsalve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateomonsalve502@gmail.com)
+<div align="center">
+  <p>💻 Enthusiastic and self-taught<br>🔎 I am looking to collaborate in high value projects and teams.<br>🤝 I enjoy teaching and sharing my knowledge in collaborative environments.<br>⚙️ Training myself to be Devops Engineer<br>⚡ More about me on my portfolio 😄</p>
+  <br>
+  
+  <a href="https://matiusdev.github.io/portafolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=5px&duration=1000&pause=1500&color=2A8487&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;DevOps+Engineer;My+portfolio%2C+click+here!" /></a>
+</div>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MatiusDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiusDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table width="100%" align="center" style="border: none;">
+<tbody>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <tr>
+    <th align="center" style="padding-bottom: 10px;">Lenguajes</th>
+    <th align="center" style="padding-bottom: 10px;">Backend</th>
+    <th align="center" style="padding-bottom: 10px;">Frontend</th>
+  </tr>
+  
+  <tr style="padding-bottom: 20px;">
+    <td align="center" valign="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="30" alt="Python logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" height="30" alt="JavaScript logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" height="30" alt="TypeScript logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" height="30" alt="C# logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" height="30" alt="Bash logo"/>
+    </td>
+    <td align="center" valign="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" height="30" alt="Node.js logo"/>
+      <img width="15"/>
+      <img src="https://logo.svgcdn.com/l/django-icon.svg" height="30" alt="Django logo"/>
+      <img width="15"/>
+      <img src="https://logo.svgcdn.com/d/fastapi-original.svg" height="30" alt="FastAPI logo"/>
+    </td>
+    <td align="center" valign="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" height="30" alt="React logo"/>
+      <img width="15"/>
+      <img src="https://logo.svgcdn.com/l/astro-icon.svg" height="30" alt="Astro logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" height="30" alt="HTML5 logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" height="30" alt="CSS3 logo"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="center" style="padding-top: 25px; padding-bottom: 10px;">Bases de Datos</th>
+    <th align="center" style="padding-top: 25px; padding-bottom: 10px;">DevOps y Herramientas</th>
+    <th align="center" style="padding-top: 25px; padding-bottom: 10px;">Automatización</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" height="30" alt="PostgreSQL logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" height="30" alt="MySQL logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" height="30" alt="MongoDB logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg" height="30" alt="MS SQL Server logo"/>
+    </td>
+    <td align="center" valign="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" height="30" alt="Docker logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="30" alt="AWS logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="30" alt="Git logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="30" alt="GitHub logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swagger.svg" height="30" alt="Swagger logo"/>
+      <img width="15"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/notion-light.svg" height="30" alt="Notion logo"/>
+    </td>
+    <td align="center" valign="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" height="30" alt="n8n logo"/>
+    </td>
+  </tr>
+
+</tbody>
+</table>
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiusdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matiusdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+## 🌐 Socials:
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateo-monsalve"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="52" height="40" alt="Linkedin logo"  /></a>
+  <a href="mailto:mateomonsalve502@gmail.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" width="52" height="40" alt="Email logo"  /></a>
+  <a href="https://discord.com/users/142107854864646144"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" width="52" height="40" alt="Discord logo"  /></a>
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-monsalve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateomonsalve502@gmail.com)
