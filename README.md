@@ -1,12 +1,12 @@
-# 👾 About Me:
 <div align="center">
+  <h1>👾 About Me:</h1><br>
   <p>💻 Enthusiastic and self-taught<br>🔎 I am looking to collaborate in high value projects and teams.<br>🤝 I enjoy teaching and sharing my knowledge in collaborative environments.<br>⚙️ Training myself to be Devops Engineer<br>⚡ More about me on my portfolio 😄</p>
   <br>
   
   <a href="https://matiusdev.github.io/portafolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=5px&duration=1000&pause=1500&color=2A8487&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;DevOps+Engineer;My+portfolio%2C+click+here!" /></a>
 </div>
 
-# 💻 Tech Stack:
+<h1 align="center">💻 Tech Stack:</h1><br>
 <table width="100%" align="center" style="border: none;">
 <tbody>
 
@@ -83,14 +83,14 @@
 </tbody>
 </table>
 
-# 📊 GitHub Stats:
 <div align="center">
+  <h1>📊 GitHub Stats:</h1><br>
   <img src="https://github-readme-stats.vercel.app/api?username=matiusdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matiusdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 🌐 Socials:
 <div align="center">
+  <h1>🌐 Socials:</h1><br>
   <a href="https://www.linkedin.com/in/mateo-monsalve"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="52" height="40" alt="Linkedin logo"  /></a>
   <a href="mailto:mateomonsalve502@gmail.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" width="52" height="40" alt="Email logo"  /></a>
   <a href="https://discord.com/users/142107854864646144"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" width="52" height="40" alt="Discord logo"  /></a>
