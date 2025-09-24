@@ -15,34 +15,34 @@
     <th align="center" style="padding-bottom: 10px;">Backend</th>
     <th align="center" style="padding-bottom: 10px;">Frontend</th>
   </tr>
-  
+ 
   <tr style="padding-bottom: 20px;">
     <td align="center" valign="center">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="30" alt="Python logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="30" alt="Python logo" title="Python"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" height="30" alt="JavaScript logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" height="30" alt="JavaScript logo" title="JavaScript"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" height="30" alt="TypeScript logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" height="30" alt="TypeScript logo" title="TypeScript"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" height="30" alt="C# logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" height="30" alt="C# logo" title="C#"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" height="30" alt="Bash logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" height="30" alt="Bash logo" title="Bash"/>
     </td>
     <td align="center" valign="center">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" height="30" alt="Node.js logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" height="30" alt="Node.js logo" title="Node.js"/>
       <img width="15"/>
-      <img src="https://logo.svgcdn.com/l/django-icon.svg" height="30" alt="Django logo"/>
+      <img src="https://logo.svgcdn.com/l/django-icon.svg" height="30" alt="Django logo" title="Django"/>
       <img width="15"/>
-      <img src="https://logo.svgcdn.com/d/fastapi-original.svg" height="30" alt="FastAPI logo"/>
+      <img src="https://logo.svgcdn.com/d/fastapi-original.svg" height="30" alt="FastAPI logo" title="FastAPI"/>
     </td>
     <td align="center" valign="center">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" height="30" alt="React logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" height="30" alt="React logo" title="React"/>
       <img width="15"/>
-      <img src="https://logo.svgcdn.com/l/astro-icon.svg" height="30" alt="Astro logo"/>
+      <img src="https://logo.svgcdn.com/l/astro-icon.svg" height="30" alt="Astro logo" title="Astro"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" height="30" alt="HTML5 logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" height="30" alt="HTML5 logo" title="HTML5"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" height="30" alt="CSS3 logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" height="30" alt="CSS3 logo" title="CSS3"/>
     </td>
   </tr>
 
@@ -51,32 +51,32 @@
     <th align="center" style="padding-top: 25px; padding-bottom: 10px;">DevOps y Herramientas</th>
     <th align="center" style="padding-top: 25px; padding-bottom: 10px;">Automatización</th>
   </tr>
-  
+ 
   <tr>
     <td align="center" valign="center">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" height="30" alt="PostgreSQL logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" height="30" alt="PostgreSQL logo" title="PostgreSQL"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" height="30" alt="MySQL logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" height="30" alt="MySQL logo" title="MySQL"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" height="30" alt="MongoDB logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" height="30" alt="MongoDB logo" title="MongoDB"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg" height="30" alt="MS SQL Server logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg" height="30" alt="MS SQL Server logo" title="Microsoft SQL Server"/>
     </td>
     <td align="center" valign="center">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" height="30" alt="Docker logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" height="30" alt="Docker logo" title="Docker"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="30" alt="AWS logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="30" alt="AWS logo" title="AWS"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="30" alt="Git logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="30" alt="Git logo" title="Git"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="30" alt="GitHub logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="30" alt="GitHub logo" title="GitHub"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swagger.svg" height="30" alt="Swagger logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swagger.svg" height="30" alt="Swagger logo" title="Swagger"/>
       <img width="15"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/notion-light.svg" height="30" alt="Notion logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/notion-light.svg" height="30" alt="Notion logo" title="Notion"/>
     </td>
     <td align="center" valign="center">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" height="30" alt="n8n logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" height="30" alt="n8n logo" title="n8n"/>
     </td>
   </tr>
 
